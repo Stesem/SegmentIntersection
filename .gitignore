@@ -67,3 +67,8 @@ vcpkg_installed/
 # test output & cache
 Testing/
 .cache/
+/.vs
+/packages/Microsoft.googletest.v140.windesktop.msvcstl.static.rt-dyn.1.8.1.7
+/SegmentIntersectionSolver/x64/Debug
+/SegmentIntersectionSolverTests/x64/Debug
+/x64/Debug
